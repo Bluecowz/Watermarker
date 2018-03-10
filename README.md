@@ -7,3 +7,5 @@ The script is given a directory containing images and it then creates a folder a
 it to a watermarked folder. 
 
 Supported images are jpg, jpeg, and png. These are supported because they are the only ones searched for. 
+
+Built with python 3.6.
